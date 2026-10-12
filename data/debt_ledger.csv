@@ -1,0 +1,19 @@
+as_of,instrument,matures,type,amount_m,unamortized_discount_premium_m,stated_rate_%,effective_rate_%,balance_sheet_total_m
+2019-12-31,Senior Subordinated Notes 6.375% due 2024,2024.0,Subordinated (unsecured),655.8,,6.375,,4753.4
+2019-12-31,Senior Unsecured Convertible Notes due 2024,2024.0,Exchangeable/convertible,600.0,73.7,2.95,,4753.4
+2019-12-31,Senior Secured Credit Facility Term Loan due 2026,2026.0,Secured (first lien / term loan),1985.0,,5.23,,4753.4
+2019-12-31,Senior Subordinated Notes 5.875% due 2026,2026.0,Subordinated (unsecured),595.0,,5.875,,4753.4
+2019-12-31,Senior Subordinated Notes 6.125% due 2027,2027.0,Subordinated (unsecured),475.0,,6.125,,4753.4
+2025-12-31,Odeon Senior Secured Note 2027,2027.0,Secured (first lien / term loan),400.0,14.6,12.75,,4038.5
+2025-12-31,Senior Subordinated Notes 6.125% due 2027,2027.0,Subordinated (unsecured),125.5,,6.125,,4038.5
+2025-12-31,First Lien Notes due 2029,2029.0,Secured (first lien / term loan),360.0,,7.5,,4038.5
+2025-12-31,New Senior Secured Notes due 2029,2029.0,Secured (first lien / term loan),877.1,-62.5,,,4038.5
+2025-12-31,New Term Loans due 2029,2029.0,Secured (first lien / term loan),1994.2,32.6,,10.731,4038.5
+2025-12-31,Toggle Senior Secured Exchangeable Notes due 2030,2030.0,Exchangeable/convertible,111.6,26.4,,15.12,4038.5
+2025-12-31,New Exchangeable Notes,,Exchangeable/convertible,155.8,57.4,,17.0,4038.5
+2026-06-30,Senior Subordinated Notes 6.125% due 2027,2027.0,Subordinated (unsecured),125.5,,6.125,,3851.6
+2026-06-30,First Lien Notes due 2029,2029.0,Secured (first lien / term loan),360.0,,7.5,,3851.6
+2026-06-30,New Senior Secured Notes due 2029,2029.0,Secured (first lien / term loan),903.4,-55.6,,,3851.6
+2026-06-30,New Term Loans due 2029,2029.0,Secured (first lien / term loan),1984.2,27.2,,10.639,3851.6
+2026-06-30,Toggle Senior Secured Exchangeable Notes due 2030,2030.0,Exchangeable/convertible,116.1,25.1,,15.12,3851.6
+2026-06-30,Odeon Term Loan due 2031,2031.0,Secured (first lien / term loan),425.0,8.2,10.5,,3851.6

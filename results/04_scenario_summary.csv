@@ -1,0 +1,6 @@
+scenario,us_attendance_per_year_m,free_cash_after_interest_per_year_m,cash_end_2029_m,lowest_cash_m,debt_end_2029_m,shortfall_vs_min_cash_m
+stress low,127.0,-658.0,-1651.0,-1651.0,4038.0,1901.0
+low,151.0,-279.0,-323.0,-323.0,4038.0,573.0
+base,170.0,16.0,709.0,542.0,4038.0,0.0
+high,215.0,716.0,3160.0,1005.0,4038.0,0.0
+stress high,228.0,916.0,3859.0,1056.0,4038.0,0.0
